@@ -25,5 +25,4 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 Вроде бы все сделал, есть мелкие недочеты, но прааить для тестового задания уже лень, и так достаточно длинно вышло.
 
-
-link on Vercel - https://test-market-sigma.vercel.app/ - но он естественно тут не работает, так как у вас http, a он такое не поддеерживает)) 
+link on Vercel нет так как http не поддеерживает) 
